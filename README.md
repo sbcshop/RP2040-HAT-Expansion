@@ -7,6 +7,7 @@
 ## Raspberry pi Interface
 <img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img1.JPG"/>
 
+## Run Both Raspberry Pi PICO and Raspberry Pi HAT'S 
 <img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img3.jpg"/>
 
 ## Schematic diagram
