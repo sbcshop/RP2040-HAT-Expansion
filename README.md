@@ -21,10 +21,10 @@
    * On-chip programmable LDO to generate the core voltage
    * 2 on-chip PLLs to generate USB and core clocks
   
-2. **Status Led**
+2.**Status Led**
    * Status led is connected to **GP24** Pin of PiSquare
 
-3. **Two push buttons**
+3.**Two push buttons**
    * Reset button     (Reset pisquare)
    * Boot button      (Boot button of RP2040)
 
