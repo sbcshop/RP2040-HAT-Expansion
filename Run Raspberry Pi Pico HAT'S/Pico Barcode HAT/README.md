@@ -11,11 +11,6 @@
   *  Change the baud rate to (9600) for this you need to scan the below barcode by pressing the scan button on the Pico Barcode Hat
   
   <img src= https://github.com/sbcshop/Pico-Barcode-HAT/blob/main/images/img_baud_rate_9600.JPG />
-  
-## For setup the Board in thonny </b>
-   * Now connect USB Cable on USB Port of Pico.
-   * Open Thonny IDE and Choose interpreter as MicroPython (Raspberry Pi pico).
 
-<img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/thonny-interpreter.PNG" />
   
    
