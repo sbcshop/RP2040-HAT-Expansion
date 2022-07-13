@@ -52,7 +52,8 @@
         <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img3.png" />
         <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img4.png" />
         
-        
+    **Or you can drag and drop this file "rp2-pico-20220618-v1.19.1.uf2" to RP2040 Directory "RPI-RP2"** 
+    
    * Install **CircuitPython** in RP2040 HAT Expansion
      Insert the circuit python to the PiSquare(it is circuit python firmware "adafruit-circuitpython-raspberry_pi_pico-en_US-7.1.1.uf2"). for this first you need to        press the boot button then connect the USB, don,t release the button until you connect the USB to the laptop. then you see a new device named "RPI-RP2" drag this      file "adafruit-circuitpython- raspberry_pi_pico-en_US-7.1.1.uf2" to this device as shown in figure:
      this is the official website, or you can download from here https://circuitpython.org/board/raspberry_pi_pico/
