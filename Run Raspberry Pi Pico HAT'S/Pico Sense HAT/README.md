@@ -7,7 +7,7 @@
     
  * Holding down the Pico's BOTSEL button while dragging this file into the mounted RP2 folder will allow you to load it(firmware.uf2).
 
-## <b>There are 4 libraries(sensors library) in this folder you need to save these libraries in the raspberry pi pico,
+## <b>There are 4 libraries(sensors library) in this folder you need to save these libraries in the RP2040 HAT Expansion
   * <b> sgp40.py 
   * <b> sht31.py
   * <b> bme280.py
