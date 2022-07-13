@@ -7,5 +7,7 @@
     
  * Holding down the RP2040 HAT Expansion BOTSEL button while dragging this file into the mounted RP2 folder will allow you to load it.
 
+<img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img7.jpg"/>
+
 ### orignal product github link:-
 https://github.com/sbcshop/1.3-LCD-HAT
