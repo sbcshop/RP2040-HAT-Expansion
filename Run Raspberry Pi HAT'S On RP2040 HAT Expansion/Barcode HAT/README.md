@@ -9,8 +9,7 @@
 
 ### barcode_hat.py - run this file
 
-<img src = "https://github.com/sbcshop/PiSquare/blob/main/Run%20raspberry%20HAT's%20on%20PiSquare/images/img18.jpg" />
-<img src = "https://github.com/sbcshop/PiSquare/blob/main/Run%20raspberry%20HAT's%20on%20PiSquare/images/img19.jpg" />
+<img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img10.jpg"/>
 
 ### orignal product github link:-
 https://github.com/sbcshop/Pi-Barcode-HAT
