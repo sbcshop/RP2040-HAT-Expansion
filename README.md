@@ -7,7 +7,7 @@
 <img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img1.JPG"/>
 
 ## Run both Raspberry Pi and Raspberry pi PICO HAT'S
-<img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img3.JPG"/>
+<img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img3.jpg"/>
 
 ## Schematic diagram
 <img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img4.JPG"/>
