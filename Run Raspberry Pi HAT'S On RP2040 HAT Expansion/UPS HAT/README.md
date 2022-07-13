@@ -5,8 +5,7 @@
 ### logging.py -  this is the library of logging, save this file in PiSquare
 ### ups_hat.py -  Run this file
 
-<img src = "https://github.com/sbcshop/PiSquare/blob/main/Run%20raspberry%20HAT's%20on%20PiSquare/images/img2.jpg" />
-<img src = "https://github.com/sbcshop/PiSquare/blob/main/Run%20raspberry%20HAT's%20on%20PiSquare/images/img3.jpg" />
+<img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img12.jpg"/>
 
 ### orignal product github link:-
 https://github.com/sbcshop/UPS-Hat-RPi
