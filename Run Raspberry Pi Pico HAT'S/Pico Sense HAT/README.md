@@ -14,3 +14,6 @@
   * <b> tcs34725.py
 
 ## Run this file "pico_sense_hat_st7789.py"
+
+<img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img14.jpg"/>
+<img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img15.jpg"/>
