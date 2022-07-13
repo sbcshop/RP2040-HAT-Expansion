@@ -1,4 +1,4 @@
-# PiSquare Demo Codes
+# RP2040 HAT Expansion Demo Codes
 * **Led Blink code(led_blink.py)**
   * Control on board status led of PiSquare ( blue color led) 
   
