@@ -12,5 +12,7 @@
   
   <img src= https://github.com/sbcshop/Pico-Barcode-HAT/blob/main/images/img_baud_rate_9600.JPG />
 
+<img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img16.jpg"/>
+<img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img18.jpg"/>
   
    
