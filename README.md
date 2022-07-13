@@ -6,5 +6,6 @@
 
 <img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img1.JPG"/>
 
+<img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img3.JPG"/>
 ## Schematic diagram
 <img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img4.JPG"/>
