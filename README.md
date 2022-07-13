@@ -13,6 +13,12 @@
 ## Schematic diagram
 <img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img4.JPG"/>
 
+## About RP2040 HAT Expansion
+  * RP2040 microcontroller with 2MB Flash
+  * USB Type C port for power and data (and for reprogramming the Flash)
+  * Exposes 26 multi-function 3.3V General Purpose I/O (GPIO)
+  * 23 GPIO are digital-only and 3 are ADC capable
+  
 ## Parts specification
 1.**RP2040 Microcontroller IC**
    * Dual ARM Cortex-M0+ @ 133MHz
