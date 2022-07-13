@@ -13,7 +13,7 @@
 
 ## round_lcd_1_28.py - Run this file to start lcd hat
 
-<img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img8.JPG"/>
+<img src = "https://github.com/sbcshop/RP2040-HAT-Expansion/blob/main/images/img8.jpg"/>
 
 ## orignal product github link:-
 https://github.com/sbcshop/Round-LCD-HAT
